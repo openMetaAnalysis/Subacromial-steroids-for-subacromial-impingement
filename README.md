@@ -22,4 +22,4 @@ References:
 2. Johansson K, Bergström A, Schröder K, Foldevi M. Subacromial corticosteroid injection or acupuncture with home exercises when treating patients with subacromial impingement in primary care--a randomized clinical trial. Fam Pract. 2011 Aug;28(4):355-65. PMID: [21378086](http://pubmed.gov/21378086).
 
 #### Trials included in the review above
-Not applicable as no trials reported pain scores at one year.
+Not applicable as no trials in the prior review reported pain scores at one year.
