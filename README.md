@@ -14,15 +14,12 @@ References:
 
 ### Systematic review(s)
 ####Most recent review at time of last revision of this repository
-None available.
-<!--
 1. Gaujoux-Viala C, Dougados M, Gossec L. Efficacy and safety of steroid injections for shoulder and elbow tendonitis: a meta-analysis of randomised controlled trials. Ann Rheum Dis. 2009 Dec;68(12):1843-9. PMID: [19054817](http://pubmed.gov/19054817).
--->
 
 ### Randomized controlled trials
 #### New trial(s) *not* included in the most recent review above 
 1. Rhon DI, Boyles RB, Cleland JA. One-year outcome of subacromial corticosteroid injection compared with manual physical therapy for the management of the unilateral shoulder impingement syndrome: a pragmatic randomized trial. Ann Intern Med. 2014 Aug 5;161(3):161-9. PMID: [25089860](http://pubmed.gov/25089860).
-2. Johansson K, Bergström A, Schröder K, Foldevi M. Subacromial corticosteroid injection or acupuncture with home exercises when treating patients with subacromial impingement in primary care--a randomized clinical trial. Fam Pract. 2011 Aug;28(4):355-65. PMID: [21378086](http://pubmed.gov/21378086).
+2. Johansson K, BergstrÃ¶m A, SchrÃ¶der K, Foldevi M. Subacromial corticosteroid injection or acupuncture with home exercises when treating patients with subacromial impingement in primary care--a randomized clinical trial. Fam Pract. 2011 Aug;28(4):355-65. PMID: [21378086](http://pubmed.gov/21378086).
 
 #### Trials included in the review above
-Not applicable. 
+Not applicable as no trials reported pain scores at one year.
