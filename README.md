@@ -1,13 +1,21 @@
 Subacromial steroids for subacromial impingement
 =================================
+A data-only living systematic review
 
-This repository contains the [source data](../../tree/master/data) and matching [forest plots](../../tree/master/forest%20plots) for an [open  meta-analysis](https://public.opencpu.org/ocpu/github/openMetaAnalysis/home/www/) of this intervention. This repository updates a previously published meta-analysis.(1)
+**Clinical summary:** This meta-analysis suggests that clinical intervention *is not* effective.
 
-This meta-analysis suggests that the clinical intervention *is not* effective.
+**Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that updates a previously published meta-analysis.(1) Newer studies included are listed in the references below. Rationale for newer trials excluded may be listed at the end of the references. 
 
-Details of the studies included are in the [evidence table](../../wiki/Evidence-Table).
+This repository is a limited review and contains outcomes data only without Risk of Bias Tables.  This review does not include a GRADE Profile or Summary of Findings Table.
 
-![alt text](https://raw.githubusercontent.com/openMetaAnalysis/Subacromial-steroids-for-subacromial-impingement/master/forest%20plots/all%20trials.png "Principle results")
+See [methods](http://openmetaanalysis.github.io/methods.html) for details.
+
+**Results:** Details of the studies included are in the:
+* [PICO table](../../wiki/Evidence-Table).
+* [Forest plots](../../tree/master/forest-plots) ([source data](../../tree/master/data))
+
+The forest plot for the primary outcome is below. Additional [forest plots](../../tree/master/forest-plots) of secondary analyses may be available. 
+![Principle results](https://raw.githubusercontent.com/openMetaAnalysis/Subacromial-steroids-for-subacromial-impingement/master/forest-plots/Outcome-Primary.png "Principle results")
 
 References:
 ----------------------------------
